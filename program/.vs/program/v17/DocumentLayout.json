@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6BFA9F0-AE94-4C9B-AD89-86F3812C797E}|..\\Class2th (variable \u0026 constant)\\Class2th (variable \u0026 constant).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C25217E7-3F18-41D5-900A-BEC9C0B9D99B}|program.vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C25217E7-3F18-41D5-900A-BEC9C0B9D99B}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,7 +28,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class2th (variable \u0026 constant)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c",
+              "RelativeToolTip": "..\\Class2th (variable \u0026 constant)\\source.c",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwHwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-18T09:02:47.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class1th (compile)\\source.c",
               "RelativeDocumentMoniker": "..\\Class1th (compile)\\source.c",
@@ -33,17 +49,18 @@
               "RelativeToolTip": "..\\Class1th (compile)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-17T09:06:47.88Z"
+              "WhenOpened": "2026-03-17T09:06:47.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:43:18.561Z",
               "EditorCaption": ""
