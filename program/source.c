@@ -185,6 +185,11 @@ else if (x < 0 && y < 0)
 	printf("제 3사분면");
 }
 
+else if (x > 0 && y < 0)
+{
+	printf("제 4사분면");
+}
+
 else if (x != 0 && y == 0)
 {
 	printf("x절편");
