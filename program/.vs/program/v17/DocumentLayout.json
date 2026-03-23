@@ -16,6 +16,9 @@
       "AbsoluteMoniker": "D:0:0:{C34E35C3-3DDA-4629-A278-FC2D2C7BEA67}|..\\Class1th (compile)\\Class1th (compile).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E4D8EAA-A122-47D6-B9C5-06596CB3CC1E}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AE6FC5F-4830-4492-B88E-DCACD1F5C93F}|..\\Class4th (overflow \u0026 underflow)\\Class4th (overflow \u0026 underflow).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class4th (overflow \u0026 underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +38,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c",
+              "RelativeToolTip": "..\\Class5th (Conditional Statement)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-23T09:17:28.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class4th (overflow \u0026 underflow)\\source.c",
               "RelativeDocumentMoniker": "..\\Class4th (overflow \u0026 underflow)\\source.c",
@@ -52,9 +68,10 @@
               "RelativeDocumentMoniker": "..\\Class3th (bit)\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class3th (bit)\\source.c",
               "RelativeToolTip": "..\\Class3th (bit)\\source.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-19T09:03:35.559Z"
+              "WhenOpened": "2026-03-19T09:03:35.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +83,8 @@
               "RelativeToolTip": "..\\Class2th (variable \u0026 constant)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-18T09:02:47.554Z"
+              "WhenOpened": "2026-03-18T09:02:47.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +96,8 @@
               "RelativeToolTip": "..\\Class1th (compile)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-17T09:06:47.88Z"
+              "WhenOpened": "2026-03-17T09:06:47.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,7 +107,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAiwMEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:43:18.561Z",
               "EditorCaption": ""
