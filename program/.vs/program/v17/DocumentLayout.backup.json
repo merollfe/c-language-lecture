@@ -7,19 +7,22 @@
       "RelativeMoniker": "D:0:0:{C25217E7-3F18-41D5-900A-BEC9C0B9D99B}|program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B14167CB-ABE9-4933-81D5-5F6643EA4E9D}|..\\Class3th (bit)\\Class3th (bit).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class3th (bit)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6BFA9F0-AE94-4C9B-AD89-86F3812C797E}|..\\Class2th (variable \u0026 constant)\\Class2th (variable \u0026 constant).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{268FC622-F9A3-4324-8F5E-BA9A1B4F9028}|..\\Class6th (Iteration Statement)\\Class6th (Iteration Statement).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class6th (Iteration Statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C34E35C3-3DDA-4629-A278-FC2D2C7BEA67}|..\\Class1th (compile)\\Class1th (compile).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class1th (compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4D8EAA-A122-47D6-B9C5-06596CB3CC1E}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B6BFA9F0-AE94-4C9B-AD89-86F3812C797E}|..\\Class2th (variable \u0026 constant)\\Class2th (variable \u0026 constant).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14167CB-ABE9-4933-81D5-5F6643EA4E9D}|..\\Class3th (bit)\\Class3th (bit).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class3th (bit)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AE6FC5F-4830-4492-B88E-DCACD1F5C93F}|..\\Class4th (overflow \u0026 underflow)\\Class4th (overflow \u0026 underflow).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class4th (overflow \u0026 underflow)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4D8EAA-A122-47D6-B9C5-06596CB3CC1E}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,7 +40,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class6th (Iteration Statement)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class6th (Iteration Statement)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class6th (Iteration Statement)\\source.c",
+              "RelativeToolTip": "..\\Class6th (Iteration Statement)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T09:10:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class5th (Conditional Statement)\\source.c",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\source.c",
@@ -58,24 +74,25 @@
               "RelativeToolTip": "..\\Class4th (overflow \u0026 underflow)\\source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-19T10:38:02.833Z"
+              "WhenOpened": "2026-03-19T10:38:02.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class3th (bit)\\source.c",
               "RelativeDocumentMoniker": "..\\Class3th (bit)\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class3th (bit)\\source.c",
               "RelativeToolTip": "..\\Class3th (bit)\\source.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-19T09:03:35.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class2th (variable \u0026 constant)\\source.c",
               "RelativeDocumentMoniker": "..\\Class2th (variable \u0026 constant)\\source.c",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\Class1th (compile)\\source.c",
               "RelativeDocumentMoniker": "..\\Class1th (compile)\\source.c",
@@ -107,7 +124,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\c-language-lecture\\program\\source.c*",
               "RelativeToolTip": "source.c*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwEsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:43:18.561Z",
               "EditorCaption": ""
